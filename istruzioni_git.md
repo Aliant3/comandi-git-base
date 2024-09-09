@@ -38,6 +38,10 @@ git commit -m "Messaggio simpatico"
 ```
 
 Per effettuare l'invio sulla repository online userò il comando:
+
 ```powershell
 git push
 ```
+
+***
+Prodotto da: *Alice Antonucci*
